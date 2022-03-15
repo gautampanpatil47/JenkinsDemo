@@ -40,64 +40,9 @@ build/Release
 
 # Dependency directories
 node_modules/
-userMicroservice/node_modules/
 .idea/
 package-lock.json
 
 #Angular Node Module
 public/node_modules/
-
-# TypeScript v1 declaration files
-typings/
-
-# Optional npm cache directory
-.npm
-
-# Optional eslint cache
-.eslintcache
-
-# Optional REPL history
-.node_repl_history
-
-# Output of 'npm pack'
-*.tgz
-
-# Yarn Integrity file
-.yarn-integrity
-
-# dotenv environment variables file
-.env
-
-# next.js build output
-.next
-
-# vuepress build output
-.vuepress/dist
-
-# Serverless directories
-.serverless
-/.idea/workspace.xml
-
-# # Dist Angular Build ignore
-# public/dist/
-
-generatePdf/allPdf/
-
-
-#middlewares/Validation.js
-node_modules.zip
-AQS_Master_Response.json
-package-lock.json
-# app-config.js
-test.js
-bash.exe.stackdump
-generatePdf/templates/
-model/dbScripts
-routes/controller/report1Controller.js
-routes/services/report1Service.js
-/reports/exportedReports/*
-out.xlsx
-reports/reportTemplates/AQS_Field_Dashboard_Template_2.xlsx
-reports/reportTemplates/AQS_Field_Dashboard_Template_plain.xlsx
-reports/reportTemplates/AQS_Field_Dashboard_Template_plain1.xlsx
 
